@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Collection.unity
+    guid: 946a6ece5714fff48aaa009d3c6d31a9
+  - enabled: 1
+    path: Assets/Scenes/Division.unity
+    guid: 3a96411756a5b9145baac424ce713403
+  - enabled: 1
+    path: Assets/Scenes/Multiplication.unity
+    guid: b06a265276b46064cbc1fb4e4de45987
+  - enabled: 1
+    path: Assets/Scenes/Extraction.unity
+    guid: 56b9e5915ef874547b88c8fe39e93dcc
+  - enabled: 1
+    path: Assets/Scenes/Collection/level1.unity
+    guid: 28bb5795432e6d944b0d83278f1fc321
+  - enabled: 1
+    path: Assets/Scenes/Collection/level2.unity
+    guid: 4b88b94474d775541be5c08d3aea58c0
+  - enabled: 1
+    path: Assets/Scenes/Collection/level3.unity
+    guid: dc50b64792b1ae74190a44191616262b
+  - enabled: 1
+    path: Assets/Scenes/Collection/level4.unity
+    guid: 03f29a1ae7c1d3a4a943c42f7d75fbe6
+  - enabled: 1
+    path: Assets/Scenes/Collection/level5.unity
+    guid: ecc0093f2a39e6449861b12b87aa7a9d
+  - enabled: 1
+    path: Assets/Scenes/Collection/level6.unity
+    guid: bb441f30584439b4e800a8945ff011ff
+  - enabled: 1
+    path: Assets/Scenes/Collection/level7.unity
+    guid: 1dc1dd1347e4b754aaab9fefd48ec5ae
+  - enabled: 1
+    path: Assets/Scenes/Collection/level8.unity
+    guid: a06c8e3898cfeca49a777d6266c62e95
+  - enabled: 1
+    path: Assets/Scenes/Collection/level9.unity
+    guid: 8ecb506b60542be429e541225df31a06
+  - enabled: 1
+    path: Assets/Scenes/Collection/level10.unity
+    guid: 2ebd70518f3a8494b9018c340e710680
+  - enabled: 1
+    path: Assets/Scenes/Mixed/Mixed.unity
+    guid: bfd769c6e6dbabf42851812b03596032
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 1.unity
+    guid: 8ccae69fe4a8033499b5b17eb1997819
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 2.unity
+    guid: 1cb3fa00f1d32664e8bea9907f1fc5dd
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 3.unity
+    guid: 4cc7ed4e4fde7774d87a9c97b22cc8ea
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 4.unity
+    guid: 29c01aed046ae1941a60333ef9f04cb9
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 5.unity
+    guid: f6faf946cbf7c8a4da72c09cf25028fe
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 6.unity
+    guid: 0dc60b0f49a86c84aa9741880c56b539
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 7.unity
+    guid: 9987e7ef6436fd844930405a5d2788bc
+  - enabled: 1
+    path: Assets/Scenes/Extraction/level 8.unity
+    guid: dd98c6590afd93d40b98c5ec7b665a74
+  - enabled: 1
+    path: Assets/Scenes/Multiplication/level 1.unity
+    guid: b0023bc6ee866194f854c742ed81e6cb
+  - enabled: 1
+    path: Assets/Scenes/Multiplication/level 2.unity
+    guid: 2f5bf43ab506b3a418dc675162d397a5
+  - enabled: 1
+    path: Assets/Scenes/Multiplication/level 3.unity
+    guid: 41e0b4a94622e244aac2e19f2345a2f8
+  - enabled: 1
+    path: Assets/Scenes/Multiplication/level 4.unity
+    guid: 016030b35cd5c2b48b86a05d6734e622
+  - enabled: 1
+    path: Assets/Scenes/Multiplication/level 5.unity
+    guid: 095ea0bb36fd7d74a9605f5f6d1c90b3
+  - enabled: 1
+    path: Assets/Scenes/Multiplication/level 6.unity
+    guid: e3a1f2e02f71be2418dde6455f89e1a5
+  - enabled: 1
+    path: Assets/Scenes/Division/level 1.unity
+    guid: 8ddba134b1675334da34dea939eaebbf
+  - enabled: 1
+    path: Assets/Scenes/Division/level 2.unity
+    guid: d9638d95d5ff2d646a5a2bdce0ad2d48
+  - enabled: 1
+    path: Assets/Scenes/Division/level 3.unity
+    guid: 514ff2520a1ca3a499be6833c09741b3
+  - enabled: 1
+    path: Assets/Scenes/Division/level 4.unity
+    guid: 4e56bf0268f6a4741b54d179b326e4c8
+  - enabled: 1
+    path: Assets/Scenes/Division/level 5.unity
+    guid: 978dac2a7ce0a064ab2d8e202bf4166d
+  - enabled: 1
+    path: Assets/Scenes/Mixed/Mixed1.unity
+    guid: b08be1fd52acbb44ca0fa8ea35ba3e92
+  m_configObjects: {}
